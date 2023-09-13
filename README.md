@@ -1,5 +1,7 @@
 # Blobsome
 
+Platforma: Visual Studio - OpenGL & Glut, C++ Godina izrade: 2020.
+
 A, D - Kretanje levo, desno.
 W - Skok.
 P, L - Podešavanje nišana.
